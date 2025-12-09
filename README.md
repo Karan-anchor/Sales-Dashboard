@@ -12,7 +12,7 @@ Select from multiple regions such as:
 **Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, Surat**
 All visuals, KPIs, and tables update automatically when a region is selected.
 
-### 🔹 **Automated KPIs (Refresh with One Click)**
+### 🔹 **Automated KPIs **
 
 The dashboard automatically calculates:
 
