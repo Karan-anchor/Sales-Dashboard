@@ -6,11 +6,6 @@ An interactive and visually appealing **Sales Performance Dashboard built entire
 
 ## 🚀 Key Highlights
 
-### 🔹 **100% Excel-Based Dashboard**
-
-No Power BI, no coding, no external plugins.
-Built using **Pivot Tables, Pivot Charts, Slicers, Conditional Formatting**, and Excel formulas.
-
 ### 🔹 **Region-Wise Dynamic Filters**
 
 Select from multiple regions such as:
@@ -72,14 +67,3 @@ Whenever the user selects a region, the entire dashboard refreshes — giving up
 4. To update data, simply replace the dataset — the pivot tables will refresh on their own
 
 No extra setup required. Works smoothly on **Excel Desktop Version**.
-
-
-
-## 🔧 Future Enhancements
-
-Some planned improvements:
-
-* 📅 Add weekly/monthly trend analysis
-* ⭐ Add performance rating (A/B/C tiers)
-* 📈 Add combined region comparison chart
-* 📌 Add automated insights section with recommendations
